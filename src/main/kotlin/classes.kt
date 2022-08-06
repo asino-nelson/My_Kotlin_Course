@@ -18,3 +18,4 @@ open class Customer(val name: String, var amountPaid :Int){
     }
 
 }
+
